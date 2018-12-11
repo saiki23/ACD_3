@@ -1,11 +1,4 @@
-#Implement user defined functions within apply function using the
-#mtcars data set and produce column wise summary statistics
-#using apply function and mtcars dataset.
-#write a program to extract the names of the list.
-############################################################
-#step1: read the csv file
-#step2: implement the user defined functions within apply()
-#step3: Coulumn-wise summary
+
 
 library(dplyr)
 library(sqldf)
